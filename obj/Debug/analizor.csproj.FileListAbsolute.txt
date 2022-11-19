@@ -1,0 +1,11 @@
+M:\Analizor Lexical C#\analizor_f\analizor\bin\Debug\analizor.exe.config
+M:\Analizor Lexical C#\analizor_f\analizor\bin\Debug\analizor.exe
+M:\Analizor Lexical C#\analizor_f\analizor\bin\Debug\analizor.pdb
+M:\Analizor Lexical C#\analizor_f\analizor\obj\Debug\analizor.csproj.AssemblyReference.cache
+M:\Analizor Lexical C#\analizor_f\analizor\obj\Debug\analizor.csproj.SuggestedBindingRedirects.cache
+M:\Analizor Lexical C#\analizor_f\analizor\obj\Debug\analizor.Form1.resources
+M:\Analizor Lexical C#\analizor_f\analizor\obj\Debug\analizor.Properties.Resources.resources
+M:\Analizor Lexical C#\analizor_f\analizor\obj\Debug\analizor.csproj.GenerateResource.cache
+M:\Analizor Lexical C#\analizor_f\analizor\obj\Debug\analizor.csproj.CoreCompileInputs.cache
+M:\Analizor Lexical C#\analizor_f\analizor\obj\Debug\analizor.exe
+M:\Analizor Lexical C#\analizor_f\analizor\obj\Debug\analizor.pdb
